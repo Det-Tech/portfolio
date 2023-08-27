@@ -29,13 +29,13 @@
 
             <div class="flex flex-row space-x-1 mx-auto">
                 <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer">
-                    <img src="https://raw.githubusercontent.com/Det-tech/portfolio/master/static/icons/Icon_Youtube.png" name='Youtube' class="logo" title="Ilan Azoulay's short films (Nanar Studios)">
+                    <img src="https://raw.githubusercontent.com/Det-tech/portfolio/master/static/icons/Icon_Youtube.png" name='Youtube' class="logo" title="Pronin's short films (Nanar Studios)">
                 </a>
                 <a href="https://github.com/Det-tech" target="_blank" rel="noopener noreferrer">
-                    <img src="https://raw.githubusercontent.com/Det-tech/portfolio/master/static/icons/Icon_Github.png" name='LinkedIn' class="logo" title="Ilan Azoulay on Github">
+                    <img src="https://raw.githubusercontent.com/Det-tech/portfolio/master/static/icons/Icon_Github.png" name='LinkedIn' class="logo" title="Pronin on Github">
                 </a>
                 <a href="https://www.linkedin.com/in/pronin-k-197429170" target="_blank" rel="noopener noreferrer">
-                    <img src="https://raw.githubusercontent.com/Det-tech/portfolio/master/static/icons/Icon_LinkedIn.png" name='LinkedIn' class="logo" title="Ilan Azoulay on LinkedIn">
+                    <img src="https://raw.githubusercontent.com/Det-tech/portfolio/master/static/icons/Icon_LinkedIn.png" name='LinkedIn' class="logo" title="Pronin on LinkedIn">
                 </a>
             </div>
         </div>

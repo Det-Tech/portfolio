@@ -5,20 +5,17 @@
             
             <div class="pb-0 sm:pb-4">
                 <h1 class="pb-4">
-                    Bonjour! I'm Ilan Azoulay
-                </h1>
-                <p>
-                    I am a developer from Paris, France.
-                </p>
+                    I'm pronin
+                </h1>               
                 <p>
                     I specialize in programming and algorithms, applied to multiple areas:
-
                 </p>
                 <ul>
                     <li>Backend</li>
                     <li>Frontend</li>
-                    <li>3D</li>
-                    <li>Software</li>
+                    <li>3D Game</li>
+                    <li>Database</li>
+                    <li>Big Data</li>
                     <li>Blockchain</li>
                 </ul>
 
@@ -29,9 +26,7 @@
 
                 <br>
                 <p>
-                    I am also an artist. I write, direct and produce animated short films and music videos.
-                    An endeavor that I consider a strong support for my engineering projects.               
-                    My films and music have garnered millions of views internationally, and been nominated to film festivals.
+                  
                 </p>
 
                 <br>
@@ -46,11 +41,7 @@
                 </div>
                 <br>
                 <p class="italic">
-                    PS: Do you like that sphere on the right? This is one of my open-source creations! <br>
-                    <a href="https://www.npmjs.com/package/wordsphere" target="_blank" rel="noopener noreferrer">Wordsphere</a> - 
-                    <a href="https://www.npmjs.com/package/vue-retro-grid" target="_blank" rel="noopener noreferrer">RetroGrid</a> - 
-                    <a href="https://www.npmjs.com/package/vue-single-select-v2" target="_blank" rel="noopener noreferrer">Dropdown</a> - 
-                    <a href="https://github.com/Det-tech/FastOcean_New" target="_blank" rel="noopener noreferrer">FastOcean</a>
+                   
                 </p>
             </div>
 

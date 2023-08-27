@@ -10,12 +10,7 @@
             <div class="textbox">
                 <div class="pt-4 pb-2 text-justify">
                     <h2>
-                        I have started my engineering journey with a master's degree in software programming.
-                        As a 3D artist, I have also applied these skills to 3D applications
-                    </h2>
-                    <br>
-                    <h2>
-                        Since graduating, I have worked on projects including mathematical algorithms, database, 3D development,
+                        I have worked on projects including mathematical algorithms, database, 3D game development,
                         front-end UIs, back-end development, and blockchain.
                     </h2>
                     <br>
@@ -26,6 +21,7 @@
                     <br>
                     <h2>
                         If you are hesitating whether I could fit within your project, hesitate no more!
+                        while( ! (succeed == try() ) );
                     </h2>
 
                     <br>

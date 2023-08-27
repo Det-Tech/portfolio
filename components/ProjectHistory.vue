@@ -4,7 +4,7 @@
             MY PROJECT HISTORY
         </h1>
         <p>
-            Below is a list of the most important personal, academic, and professional engineering projects I have worked on
+            Below is a list of the most important personal and professional engineering projects I have worked on
         </p>
         <p>
             <em>(click for details)</em>
